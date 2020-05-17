@@ -1,0 +1,5 @@
+#imgPuppie1 ,#imgPuppie2{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+}
